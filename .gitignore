@@ -1,0 +1,37 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- 构建产物 ----
+build/
+build_cache/
+dist/
+*.manifest
+
+# ---- 内置 VLC 运行库（约 137MB，第三方 GPL 二进制）----
+# 不纳入版本管理；克隆后用 tools/fetch_vlc.py 一键下载
+vendor/
+
+# ---- 发布二进制（约 200MB）----
+# 建议改用 GitHub Releases 附件分发，而不是塞进 git 历史
+release/*.exe
+release/*.zip
+
+# ---- 运行时产物（程序自己会生成）----
+config.json
+config.json.bak
+config.user-backup.json
+*.user-backup.json
+multiview.log*
+snapshots/
+recordings/
+
+# ---- 编辑器 / 系统 ----
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+desktop.ini

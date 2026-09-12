@@ -1,0 +1,164 @@
+{
+  "channels": [
+    {
+      "enabled": true,
+      "name": "一端路况",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": false,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "一端司机室",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "动力间",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "左后视",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "受电弓1",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "二端司机室",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "机械间1（嵌入式前置）",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "机械间2（前置）",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "二端车钩",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "受电弓2（2.0）",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "电气间（新型前置）",
+      "url": "rtsp://192.168.1.10:554/Streaming/Channels/1",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    }
+  ],
+  "network_caching": 300,
+  "rtsp_tcp": true,
+  "hw_decode": "any",
+  "fit": "keep",
+  "auto_reconnect": true,
+  "reconnect_interval": 3,
+  "max_retries": 0,
+  "connect_timeout": 15,
+  "snapshot_dir": "D:\\workspace\\888-tool\\多画面视频工具\\MultiView-1.0.0-win64\\MultiView\\snapshots",
+  "record_dir": "D:\\workspace\\888-tool\\多画面视频工具\\MultiView-1.0.0-win64\\MultiView\\recordings",
+  "record_mux": "ts",
+  "autoplay_on_start": true,
+  "show_header": true,
+  "fill_last_row": false,
+  "zoom_fullscreen": true,
+  "version": 1
+}

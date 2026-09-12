@@ -1,0 +1,164 @@
+{
+  "channels": [
+    {
+      "enabled": true,
+      "name": "通道1",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道2",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": false,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道3",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道4",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道5",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道6",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道7",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道8",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道9",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道10",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": true,
+      "name": "通道11",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    },
+    {
+      "enabled": false,
+      "name": "",
+      "url": "",
+      "volume": 80,
+      "muted": true,
+      "fit": ""
+    }
+  ],
+  "network_caching": 1000,
+  "rtsp_tcp": true,
+  "hw_decode": "any",
+  "fit": "keep",
+  "auto_reconnect": true,
+  "reconnect_interval": 3,
+  "max_retries": 0,
+  "connect_timeout": 30,
+  "snapshot_dir": "snapshots",
+  "record_dir": "recordings",
+  "record_mux": "ts",
+  "autoplay_on_start": false,
+  "show_header": true,
+  "fill_last_row": false,
+  "zoom_fullscreen": true,
+  "version": 1
+}

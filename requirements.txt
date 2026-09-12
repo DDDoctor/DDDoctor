@@ -1,0 +1,9 @@
+# 运行依赖（PySide6-Essentials 已包含 QtCore/QtGui/QtWidgets，体积比完整版小很多）
+PySide6-Essentials>=6.8.0
+python-vlc>=3.0.20
+
+# 打包依赖（可选，build.ps1 会自动安装）
+# pyinstaller>=6.10
+#
+# 国内网络安装建议加镜像：
+#   pip install -i https://pypi.tuna.tsinghua.edu.cn/simple PySide6-Essentials python-vlc pyinstaller

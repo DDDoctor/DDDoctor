@@ -4,6 +4,24 @@
 
 多路视频流同屏播放器，最多支持 **18 路**通道，可打包成**免安装 VLC** 的可执行程序。
 
+---
+
+## 📦 下载
+
+**最新版：[v1.0.5](https://github.com/DDDoctor/DDDoctor/releases/tag/v1.0.5)**
+
+| 文件 | 说明 |
+| --- | --- |
+| [MultiView-1.0.5-win64.zip](https://github.com/DDDoctor/DDDoctor/releases/download/v1.0.5/MultiView-1.0.5-win64.zip) | ★ **推荐**：解压后运行 `MultiView\MultiView.exe`，免安装 |
+| [MultiView-1.0.5-single.exe](https://github.com/DDDoctor/DDDoctor/releases/download/v1.0.5/MultiView-1.0.5-single.exe) | 单文件版（每次启动需解包约 232 MB，慢 5~15 秒） |
+| [MultiView-1.0.5-source.zip](https://github.com/DDDoctor/DDDoctor/releases/download/v1.0.5/MultiView-1.0.5-source.zip) | 源码包（本仓库代码的快照） |
+| [SHA256SUMS.txt](https://github.com/DDDoctor/DDDoctor/releases/download/v1.0.5/SHA256SUMS.txt) | 各文件 SHA256 校验值 |
+
+> **发行包（exe / zip）不放在代码目录里**，请到 **[Releases 页面](https://github.com/DDDoctor/DDDoctor/releases)** 下载
+> —— 这样仓库只有几百 KB，`git clone` 秒下；要自己构建见 [第 3 节](#3-打包成-exe)。
+
+---
+
 > **文档导航**
 > · [使用说明](#1-功能一览)（本文件）
 > · [`CHANGELOG.md`](CHANGELOG.md) — 版本历史与缺陷根因
